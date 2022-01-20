@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Игорь Рудник](https://up.htmlacademy.ru/htmlcss/33/user/2015429).
-* Наставник: `Неизвестно`.
+* Наставник: [Константин Соколов](https://htmlacademy.ru/profile/k_sokolov).
 
 ---
 
